@@ -7,7 +7,7 @@ var config = {
     email: "zhangchen86@126.com",
     address: "现居河南省周口市",
     qq: "488532619",
-    log: "Happysnaker",
+    log: "个人简历",
     excpect_work: "Java/Go后端开发",
 
 
